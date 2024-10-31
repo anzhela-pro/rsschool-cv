@@ -27,7 +27,7 @@ I would like my apps to be creative.
 
 
 
-## Code Example &#11036;
+## Code Example &#128220;
 ```
 function greet (name) {
     return `Hello, ${name}!`;
