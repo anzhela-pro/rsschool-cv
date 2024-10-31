@@ -4,14 +4,14 @@
 
 ## Junior Frontend Developer &#128188;
 
----
+
 
 ## Contacts &#9993;
 - **Location:** Berlin, Germany
 - **Email:**  [astryzhova5@gmail.com](mailto:astryzhova5@gmail.com)
 - **GitHub:** [anzhela-pro](https://github.com/anzhela-pro/)
 
----
+
 
 ## About Me &#129488;&#8205;&#128187;
 I enjoy working in software development and would like to create an interesting multi-user application for Telegram.
