@@ -2,7 +2,7 @@
 
 ---
 
-## Junior Frontend Developer :briefcase:
+## Junior Frontend Developer &#128188;
 
 ---
 
