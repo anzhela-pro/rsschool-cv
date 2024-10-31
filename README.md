@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/anzhela-pro/rsschool-cv/cv
