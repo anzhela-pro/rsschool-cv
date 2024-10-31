@@ -1,6 +1,6 @@
 # Anzhela Stryzhova
 
----
+
 
 ## Junior Frontend Developer &#128188;
 
@@ -17,7 +17,7 @@
 I enjoy working in software development and would like to create an interesting multi-user application for Telegram.
 I would like my apps to be creative.
 
----
+
 
 ## Skills &#128213;
 - **HTML**
@@ -25,7 +25,7 @@ I would like my apps to be creative.
 - **JavaScript (Basic)**
 - **Git**
 
----
+
 
 ## Code Example &#11036;
 ```
@@ -34,7 +34,7 @@ function greet (name) {
 }
 console.log(greet('Anzhela'));
 ```
----
+
 
 ## Education &#127891;
 - **University:** Kiev State Academy of Water Transport named after Hetman Petro Konashevich-Sagaidachny Accounting and Taxation. Specialization: Accounting and Taxation
@@ -42,7 +42,7 @@ console.log(greet('Anzhela'));
 - [HTML Academy](https://htmlacademy.ru)
 - [Stepik](https://stepik.org/)
 
----
+
 
 ## Languages &#127757;
 - **Russian:** Nativ
