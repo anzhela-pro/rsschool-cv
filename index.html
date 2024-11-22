@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="menu_container">
+                <nav class="navbar">
+                    <ul class="menu_ul">
+                        <li class="menu_li"><a href="#about_me" class="menu_link">About</a></li>
+                        <li class="menu_li"><a href="#code_and_skills" class="menu_link">Code</a></li>
+                        <li class="menu_li"><a href="#code_and_skills" class="menu_link">Skills</a></li>
+                        <li class="menu_li"><a href="#contacts" class="menu_link">Contacts</a></li>
+                    </ul>
+                </nav>
+                <div class="photo_and_name_container">
+                    <div class="photo">
+                        <img src="img/photo.jpg" alt="my photo">
+                    </div>
+                    <div class="name_and_vacancy_container">
+                        <div class="name_container">
+                            <h1 class="name">Anzhela Stryzhova</h1>
+                        </div>
+                        <div class="vacancy_container">
+                            <h2 class="vacancy">Future Front-end Developer</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        
+        <main class="main">
+            <section id="about_me">
+                <div class="about_me_and_education_container">
+                    <div class="education">
+                        <h2 class="left_title">Education</h2>
+                        <p class="left_content">Kiev State Academy of Water Transport.</p>
+                        <h2 class="left_title">Courses</h2>
+                        <ul class="courses_ul">
+                            <li class="li_courses">Html Academy</li>
+                            <li class="li_courses">Stepik</li>
+                        </ul>
+                        <h2 class="left_title">RS School</h2>
+                        <ul class="courses_ul">
+                            <li class="li_courses">JS FE 2024Q4</li>
+                        </ul>
+                    </div>
+                    <div class="about_me">
+                        <h2 class="right_title">About me</h2>
+                        <p class="right_content">I enjoy working in software development and would like to create an interesting multi-user application for Telegram. I would like my apps to be creative.</p>
+                        
+                        <h2 class="right_title">Languages:</h2>
+                        <ul class="courses_ul">
+                            <li class="li_courses">Russian: Native</li>
+                            <li class="li_courses">English: Basic</li>
+                            <li class="li_courses">German: Basic</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="code_and_skills">
+                <div class="skills_and_code_container">
+                    <div class="skills">
+                        <h2 class="left_title">Skills</h2>
+                        <ul class="ul_skills">
+                            <li class="li_skills"><i class="fab fa-html5"></i> HTML</li>
+                            <li class="li_skills"><i class="fab fa-css3-alt"></i> CSS</li>
+                            <li class="li_skills"><i class="fab fa-js"></i> JavaScript</li>
+                            <li class="li_skills"><i class="fab fa-github"></i> GitHub</li>
+                            <li class="li_skills"><i class="fab fa-figma"></i> Figma</li>
+                        </ul>
+                    </div>
+                    <div class="code_container">
+                        <h2 class="right_title">Code</h2>
+                        <div class="code_wrapper">
+                            <pre>
+                                <code class="language-javascript">
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+console.log(greet('Anzhela'));
+                                </code>
+                            </pre>
+                        </div>
+                    </div> <!-- Close code_container -->
+                </div> <!-- Close skills_and_code_container -->
+            </section>
+            
+            <section id="contacts">
+                <footer class="footer">
+                    <div class="footer_container">
+                        <div class="contacts">
+                            <h2 class="left_title">Contacts</h2>
+                            <ul class="contact_ul">
+                                <li class="contact_li"><a href="mailto:astryzhova5@gmail.com" class="contact_link">Email</a></li>
+                                <li class="contact_li"><a href="https://github.com/anzhela-pro" class="contact_link">GitHub</a></li>
+                            </ul>
+                        </div>
+                        <div class="footer_logo">
+                            <img src="img/rs_school_js.svg" alt="rss school logo">
+                        </div>
+                    </div>
+                </footer>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
